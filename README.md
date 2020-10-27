@@ -1,9 +1,8 @@
-# Markovitz-Portfolio-Optimisation-Tool
-Markovitz portfolio optimisation tool using solver in Google Sheets.
+# Markovitz portfolio optimisation tool using solver in Google Sheets.
 
-*Please see my Reddit post explaining how to use the portfolio optimisation tool in detail. This post includes instructions on how to use the spreadsheet and some explanation behind it.* 
+**Please see [my Reddit post](
+https://www.reddit.com/r/stocks/comments/crmpx7/i_made_a_portfolio_optimisation_tool_spreadsheet/) explaining how to use the portfolio optimisation tool in detail. This post includes instructions on how to use the spreadsheet and some explanation behind it.**
 
-https://www.reddit.com/r/stocks/comments/crmpx7/i_made_a_portfolio_optimisation_tool_spreadsheet/
 
 Note: The portfolio sheet and automatic emailer referenced in the Reddit post no longer exist in this verison of the spreadsheet. To view a portfolio with similar functions see my portfolio tracker repository: https://github.com/GeorgeBates98/Portfolio-Tracker
 
